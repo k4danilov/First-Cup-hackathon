@@ -6,4 +6,4 @@ The task is to make the most personalized promo offer to the guest. What can be 
 
 The goal is to learn how to predict whether a person will use a promo or ignore it. The more accurate the prediction, the more personalized offers the company can make to its customers.
 
-![Image]([https://i.ytimg.com/vi/5yF-VeivtgU/maxresdefault.jpg?9289889566](https://papik.pro/grafic/uploads/posts/2023-04/thumbs/1681549843_papik-pro-p-dodo-logotip-vektor-13.png))
+![Image](https://papik.pro/grafic/uploads/posts/2023-04/thumbs/1681549843_papik-pro-p-dodo-logotip-vektor-13.png)
